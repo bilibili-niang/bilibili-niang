@@ -9,6 +9,7 @@
         <div data-v-d2c98457="" data-v-60220da0="" class="ice-column userInfoText" style="width: 100%;">
             <div data-v-857b2d98="" data-v-60220da0="" class="hoverColor size-l m0 ice-text"
                 style="--hover-color: rgba(19,24,36,1); --color: rgba(19,24,36,.5); font-size: 1rem;font-weight: bold;padding: 0.3rem 0.4rem;">张嘉凯</div>
+            <h1>张嘉凯</h1>
             <div data-v-fee11e1e="" data-v-60220da0="" class="ice-row" style="width: 100%;">
                 <div data-v-857b2d98="" data-v-60220da0="" class="text-nowrap hoverColor size-n m0 p0 ice-text"
                     style="--hover-color: rgba(19,24,36,1); --color: rgba(19,24,36,.5);">
