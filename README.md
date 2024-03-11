@@ -1,13 +1,14 @@
 <!--头像-->
 <div data-v-d2c98457="" data-v-60220da0="" class="ice-column renderBlock" id="avatar" style="width: 100%;">
     <div data-v-60220da0="" class="verticalLine"></div>
-    <div data-v-fee11e1e="" data-v-60220da0="" class="ice-row" style="width: 100px;">
-        <div data-v-c9681ee0="" data-v-60220da0="" class="background round ice-avatar"><img data-v-c9681ee0="" alt=""
-                class="avatar default-size block" src="https://blog.icestone.work/default.png" title=""
-                style="object-fit: fill;"></div>
+    <div data-v-fee11e1e="" data-v-60220da0="" class="ice-row" style="width: 100%;">
+        <div data-v-c9681ee0="" data-v-60220da0="" class="background round ice-avatar">
+            <img data-v-c9681ee0="" alt="" class="avatar default-size block"
+                src="https://avatars.githubusercontent.com/u/60811236?v=4" title="" style="object-fit: fill;width: 120px;">
+        </div>
         <div data-v-d2c98457="" data-v-60220da0="" class="ice-column userInfoText" style="width: 100%;">
             <div data-v-857b2d98="" data-v-60220da0="" class="hoverColor size-l m0 ice-text"
-                style="--hover-color: rgba(19,24,36,1); --color: rgba(19,24,36,.5);font-size: 70px;">张嘉凯</div>
+                style="--hover-color: rgba(19,24,36,1); --color: rgba(19,24,36,.5);">张嘉凯</div>
             <div data-v-fee11e1e="" data-v-60220da0="" class="ice-row" style="width: 100%;">
                 <div data-v-857b2d98="" data-v-60220da0="" class="text-nowrap hoverColor size-n m0 p0 ice-text"
                     style="--hover-color: rgba(19,24,36,1); --color: rgba(19,24,36,.5);">
