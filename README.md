@@ -1,4 +1,4 @@
-<div data-v-d2c98457="" data-v-60220da0="" class="ice-column renderBlock" id="avatar" style="width: 100%;">
+<div class="ice-column renderBlock" id="avatar" style="width: 100%;">
     <div data-v-fee11e1e="" data-v-60220da0="" class="ice-row" style="width: 100%;display: flex;flex-direction: row;">
         <div class="background round ice-avatar" style="margin-right: 20px;">
             <img data-v-c9681ee0="" alt=""
