@@ -1,5 +1,5 @@
 <div class="container" style="padding: 10px;display: flex;flex-direction: row;align-items: center;">
-<img src="https://avatars.githubusercontent.com/u/60811236?v=4" title="无名之辈" style="object-fit: fill;width: 200px;height: 200px;border-radius: 5px;">
+<img src="https://avatars.githubusercontent.com/u/60811236?v=4" title="无名之辈" style="object-fit: fill;width: 100px;height: 100px;border-radius: 5px;">
 
 <div class="infoContainer" style="display: flex;flex-direction: column;margin-left: 7px; align-items: flex-start;">
 
