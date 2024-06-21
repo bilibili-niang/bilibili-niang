@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblogfront=self.webpackChunkblogfront||[]).push([[211],{7211:function(n,r,t){t.r(r),t.d(r,{default:function(){return o}});var u=t(3396);const e={class:"words"};var o=(0,t(89).Z)({},[["render",function(n,r){return(0,u.wg)(),(0,u.iD)("div",e," ikun语录 ")}]])}}]);
