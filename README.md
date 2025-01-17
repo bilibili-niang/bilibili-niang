@@ -1,29 +1,7 @@
-<div class="container" style="padding: 10px;display: flex;flex-direction: row;align-items: center;">
-<img src="https://avatars.githubusercontent.com/u/60811236?v=4" title="无名之辈" style="object-fit: fill;width: 100px;height: 100px;border-radius: 5px;">
+<img src="https://avatars.githubusercontent.com/u/60811236?v=4" title="无名之辈" style="object-fit: fill;width: 100px;height: 100px;border-radius: 5px;"/>  
+ 
+`url`: https://blog.icestone.work
 
-<div class="infoContainer" style="display: flex;flex-direction: column;margin-left: 7px; align-items: flex-start;">
+`name`:无名之辈
 
-<div style="display: flex;flex-direction: row;align-items: center;justify-content: center;margin-top: 5px">
-    <div class="tag" style="background: black;border-radius: 5px;padding: 3px 7px;color: white;margin: 0 3px;">webSite:</div>
-    <div>https://blog.icestone.work/#/</div>
-</div>
-
-<div style="display: flex;flex-direction: row;align-items: center;justify-content: center;margin-top: 5px">
-    <div class="tag" style="background: black;border-radius: 5px;padding: 3px 7px;color: white;margin: 0 3px;">email:</div>
-    <div>killicestone@126.com</div>
-</div>
-
-<div style="display: flex;flex-direction: row;align-items: center;justify-content: center;margin-top: 5px">
-    <div class="tag" style="background: black;border-radius: 5px;padding: 3px 7px;color: white;margin: 0 3px;">weChat:</div>
-    <div>icestone9</div>
-</div>
-
-<div style="display: flex;flex-direction: row;align-items: center;justify-content: center;margin-top: 5px">
-    <div class="tag" style="background: black;border-radius: 5px;padding: 3px 7px;color: white;margin: 0 3px;">twitter / X:</div>
-    <div>https://twitter.com/icestone2333</div>
-</div>
-
-</div>
-
-</div>
-
+`email`:killicestone@126.com  
